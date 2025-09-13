@@ -24,11 +24,17 @@ Implemented on three different sample parking lot videos (carPark.mp4 and two ad
 ## Project Structure
 
 ├── ParkingSpace.py               # Core parking space detection logic (implemented separately for 3 videos)
+
 ├── interactive_map.py            # Map interface for visualizing parking spaces
+
 ├── main_with_interactive.py      # Main application entry point
+
 ├── requirements.txt              # List of required Python libraries
+
 ├── carPark.mp4                   # Sample video feed (3 different videos used for testing)
+
 └── interactive_parking_map.html  # Generated web-based interactive parking map
+
 
 ## Applications
 
