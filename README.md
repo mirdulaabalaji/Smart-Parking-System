@@ -13,7 +13,7 @@ Uses computer vision techniques to identify and monitor the occupancy status of 
 Continuously updates parking availability as vehicles enter or leave.
 
 - Interactive Web Map:
-Visualizes parking spaces on an HTML-based interactive map (interactive_parking_map.html), where users can view availability.
+Visualizes parking spaces on an Folium-based interactive map (interactive_parking_map.py), where users can view availability.
 
 - Distance Calculation:
 Computes distances to available parking spaces to help users choose the most convenient slot.
